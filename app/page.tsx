@@ -1,3 +1,19 @@
+import Image from "next/image";
+
+export default function Home() {
+  return (
+   
+      <main className="">
+          from page.tsx under navbar main big page
+          <h2 className="text-airbnb">Navigation part</h2>
+
+      </main>
+    
+  );
+}
+
+
+
 // import Image from "next/image";
 
 // export default function Home() {
@@ -68,16 +84,3 @@
 //   );
 // }
 
-import Image from "next/image";
-
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="">
-        moji bnb
-
-
-      </main>
-    </div>
-  );
-}

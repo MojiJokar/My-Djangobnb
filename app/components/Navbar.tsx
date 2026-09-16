@@ -1,3 +1,30 @@
+// const Navbar =  () => {
+
+
+//     return (
+//         <nav className="w-full fixed top-0 left-0 py-6 border-b bg-white z-10">
+//             Test
+//         </nav>
+//     )
+// }
+
+// export default Navbar;
+
+const Navbar =  () => {
+
+
+    return (
+        <nav className="w-full fixed top-0 left-0 py-6 border-b bg-white z-10">
+            Test for Navbar from Component Navbar.tsx
+        </nav>
+    )
+}
+
+export default Navbar;
+
+
+
+
 // import Image from 'next/image';
 // import Link from 'next/link';
 
@@ -47,16 +74,5 @@
 
 
 
-const Navbar =  () => {
-
-
-    return (
-        <nav className="w-full fixed top-0 left-0 py-6 border-b bg-white z-10">
-            Test
-        </nav>
-    )
-}
-
-export default Navbar;
 
 
