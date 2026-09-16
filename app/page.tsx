@@ -5,7 +5,7 @@ export default function Home() {
    
       <main className="">
           from page.tsx under navbar main big page
-          <h2 className="text-airbnb">Navigation part</h2>
+          <h2 className="text-airbnb">page.tsx part </h2>
 
       </main>
     
