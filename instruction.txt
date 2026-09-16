@@ -64,6 +64,14 @@ git push -u origin master
 npm  run dev
 http://localhost:3000
 
+=====================
+under app create a  folder component 
+they are reusable small pieces of code 
+
+
+
+
+
 
 
 
