@@ -72,6 +72,7 @@ import Image  from "next/image";
 import Link  from "next/link";
 import SearchFilters from "./searchFilters";
 import UserNav from "./UserNav";
+import AddPropertyButton from "./AddPropertyButton";
 // searchFilter :
 const Navbar =  () => {
 
@@ -98,6 +99,12 @@ const Navbar =  () => {
                         add property from Navbar
                         <UserNav/>
                     </div>
+                    <div className="flex items-center space-x-6">
+                        {/* add text for test   add property*/}
+                       
+                        <AddPropertyButton/>
+                    </div>
+
                 </div>
             </div>
         </nav>

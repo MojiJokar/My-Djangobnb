@@ -76,7 +76,7 @@ const SearchFilters = () => {
 
                     {/* Search button */}
                     <div className="p-2">
-                        <div className="cursor-pointer w-12 h-12 flex items-center justify-center bg-rose-500 hover:bg-rose-600 transition rounded-full text-white">
+                        <div className="cursor-pointer p-2 lg:p-4 w-12 h-12 flex items-center justify-center bg-rose-500 hover:bg-rose-600 transition rounded-full text-white">
                             <svg
                                 viewBox="0 0 32 32"
                                 className="w-4 h-4"
