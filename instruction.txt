@@ -67,8 +67,9 @@ http://localhost:3000
 =====================
 under app create a  folder component 
 they are reusable small pieces of code 
+components,Navbar.tsx
 
-
+Navbar.tsx ==> logout.tsx
 
 
 
