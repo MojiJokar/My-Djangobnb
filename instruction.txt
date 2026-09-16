@@ -71,7 +71,8 @@ components,Navbar.tsx
 
 Navbar.tsx ==> logout.tsx
 
-
+* we start to develop the navbar, page 
+create two folder in component  navbar.tsx and searchFilter and connect them to layout and page
 
 
 

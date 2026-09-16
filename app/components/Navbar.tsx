@@ -47,6 +47,15 @@ const Navbar =  () => {
                             height={20}
                         />
                     </Link>
+                    <div className="flex space-x-6">
+                        search part test
+                        {/* search part test */}
+                        
+                    </div>
+                    <div className="flex items-center space-x-6">
+                        {/* add text for test   add property*/}
+                        add property 
+                    </div>
                 </div>
             </div>
         </nav>
