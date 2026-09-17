@@ -1,8 +1,9 @@
+// import PropertyListItem from "./PropertiyListItem";
 
 // const PropertyList  = () => {
 //     return (
-//         <p>property list </p>
-    
+//         <p>properties [id] propertylist.... </p>
+        
 //     )
 // }
 
@@ -11,7 +12,12 @@
 
 
 
-import PropertyListItem from "../PropertiyListItem";
+
+
+
+
+
+import PropertyListItem from "./PropertiyListItem";
 
 const PropertyList  = () => {
     return (
